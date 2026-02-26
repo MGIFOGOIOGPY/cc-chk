@@ -1,1 +1,6 @@
-Flask==3.0.3
+Flask==2.3.3
+httpx==0.25.0
+fake-useragent==1.4.0
+beautifulsoup4==4.12.2
+asyncio==3.4.3
+cloudscraper==1.2.71
